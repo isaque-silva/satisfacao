@@ -11,8 +11,7 @@ Este plugin para o **GLPI** permite que os usuários respondam à pesquisa de sa
 
 ## Requisitos
 
-- GLPI versão [inserir versão mínima] ou superior.
-- [Outros requisitos, se aplicável, como extensões PHP, etc.]
+- GLPI versão 10.0 ou superior.
 
 ## Instalação
 
@@ -51,8 +50,4 @@ Após ativar o plugin, configure a pesquisa de satisfação da seguinte forma:
 
 ## Contribuição
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir um **pull request** ou relatar um problema na [página de issues](https://github.com/seu-usuario/satisfacao-glpi/issues).
-
-## Licença
-
-Este projeto é licenciado sob a [licença nome-da-licença]. Para mais detalhes, consulte o arquivo `LICENSE`.
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um **pull request** ou relatar um problema na [página de issues](https://github.com/isaque-silva/satisfacao/issues).
