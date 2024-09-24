@@ -5,9 +5,9 @@ function plugin_version_satisfacao()
    return [
       'name' => 'Satisfacao',
       'version' => '1.0.0', 
-      'author' => '<a href="http://www.example.com">Isaque Silva</a>',
+      'author' => '<a href="https://github.com/isaque-silva">Isaque Silva</a>',
       'license' => 'GPLv3', 
-      'homepage' => 'http://www.example.com/plugin-satisfacao', 
+      'homepage' => 'https://github.com/isaque-silva/satisfacao', 
       'requirements' => [
          'glpi' => [
             'min' => '10.0',
