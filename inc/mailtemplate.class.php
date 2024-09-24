@@ -20,7 +20,7 @@ class PluginSatisfacaoMailTemplate
             $satisfaction_survey_direct_vote_link = new PluginSatisfacaoSurveyLink(
                $user_id, $ticket_id
             );
-            $item->data['##ticket.satisfactionSurvey##'] = self::getSatisfactionSurveySkeleton(
+            $item->data['##ticket.satisfacao##'] = self::getSatisfactionSurveySkeleton(
                $satisfaction_survey_direct_vote_link
             );
          }
