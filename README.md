@@ -17,12 +17,12 @@ Este plugin para o **GLPI** permite que os usuários respondam à pesquisa de sa
 
 1. Faça o download ou clone o repositório do plugin no seu servidor GLPI:
    ```bash
-   git clone https://github.com/seu-usuario/satisfacao-glpi.git
+   git clone https://github.com/isaque-silva/satisfacao.git
    ```
 
 2. Mova a pasta do plugin para o diretório de plugins do GLPI:
    ```bash
-   mv satisfacao-glpi /seu-caminho/glpi/plugins/
+   mv satisfacao /seu-caminho/glpi/plugins/
    ```
 
 3. No painel administrativo do GLPI, vá até **Configurar > Plugins** e ative o plugin de satisfação.
